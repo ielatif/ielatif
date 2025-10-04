@@ -1,16 +1,21 @@
-### Hi there 👋
+# 👋 Hi, I'm Issam 
 
-<!--
-**ielatif/ielatif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate software developer with a focus on **Microservices, AI, cloud and DevSecOps**.  
+I love building clean, efficient, and scalable systems — from concept to deployment. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🌱 Currently Exploring
+- 🧠 AI-assisted development & LLM integrations  
+- ☁️ Cloud-native microservices with Spring Cloud  
+- ⚙️ Test automation and DevSecOps pipelines  
+
+
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/issam-el-atif-09b5b88/)  
+- [Stackoverflow](https://stackoverflow.com/users/2998222/issam-el-atif)
+
+
+
+⭐ **“Code is like humor — when you have to explain it, it’s bad.”**
